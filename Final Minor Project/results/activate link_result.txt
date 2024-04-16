@@ -1,0 +1,6 @@
+Static Analysis Result: File type: ASCII text, with CRLF line terminators
+
+Dynamic Analysis Result:   File "C:\Users\darsh\OneDrive\Desktop\ma\uploads\activate link.txt", line 3
+    open powershell not cmd
+         ^^^^^^^^^^
+SyntaxError: invalid syntax

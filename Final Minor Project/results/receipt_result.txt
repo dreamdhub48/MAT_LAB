@@ -1,0 +1,3 @@
+Static Analysis Result: File type: PDF document, version 1.7
+
+Dynamic Analysis Result: Malicious behavior detected: SyntaxError: Non-UTF-8 code starting with '\xff' in file C:\Users\darsh\OneDrive\Desktop\ma\ma\uploads\receipt.pdf on line 15, but no encoding declared; see https://peps.python.org/pep-0263/ for details
